@@ -6,6 +6,11 @@ This application converts a JSON object to a new format as requested in the prob
 
 This documentation outlines how to use the `convert-object` endpoint of the Go server to convert a JSON object into a desired format and send it to a webhook.
 
+## How to use : 
+
+Clone this repo
+run main.go file in terminal
+
 ### Endpoint Details
 
 - **Base URL:** http://localhost:8080/
