@@ -10,6 +10,7 @@ This documentation outlines how to use the `convert-object` endpoint of the Go s
 
 - Clone this repo
 - run main.go file in terminal
+- There will be a message once server started - "Server is listening on port 8080"
 
 ### Endpoint Details
 
