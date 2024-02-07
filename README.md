@@ -8,8 +8,8 @@ This documentation outlines how to use the `convert-object` endpoint of the Go s
 
 ## How to use : 
 
-Clone this repo
-run main.go file in terminal
+- Clone this repo
+- run main.go file in terminal
 
 ### Endpoint Details
 
