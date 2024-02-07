@@ -18,5 +18,5 @@ This documentation outlines how to use the `convert-object` endpoint of the Go s
 ### Example Request
 
 ```http
-POST http://localhost:8080/convert-object
+POST http://localhost:8080/convert-object?webhook_url=https://webhook.site/d18d2a54-cc8a-40d8-b892-77ab1a853940
 Content-Type: application/json
